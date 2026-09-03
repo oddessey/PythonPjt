@@ -1,1 +1,2 @@
 Hello Git - Developer A
+Hello Git - Developer B
